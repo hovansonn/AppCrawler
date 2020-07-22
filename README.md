@@ -6,7 +6,7 @@
   - Biểu diễn văn bản trong không gian vector - BoW,TF-IDF.
   - Tính được độ tương đồng giữa các văn bản(Cosine Similarity).
   - Tính toán các độ đo Precision, Recall, F-score.
-Lưu ý chỉ dùng trên web tiếng anh
+  - Lưu ý chỉ dùng trên web tiếng anh
 ### Môi trường
   Python 3.8 
 ### Cài Đặt
