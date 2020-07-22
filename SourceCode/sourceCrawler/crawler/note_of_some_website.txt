@@ -1,0 +1,1 @@
+Đổi với trang time.com phải comment 2 dòng thêm chữ "WWW"vào domain chứa nhiều llỗi

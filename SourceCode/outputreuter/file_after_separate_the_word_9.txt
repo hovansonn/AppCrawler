@@ -1,0 +1,10 @@
+Australian:1
+state:2
+extends:1
+of:1
+emergency:1
+as:1
+coronavirus:1
+cases:1
+spike:1
+Reuters:1

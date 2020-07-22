@@ -1,0 +1,10 @@
+If:1
+it:2
+walks:1
+like:2
+a:3
+duck:3
+and:1
+quacks:1
+must:1
+be:1

@@ -1,0 +1,11 @@
+mainland:1
+china:1
+report:1
+26:1
+new:1
+covid19:1
+case:1
+includ:1
+22:1
+beij:1
+reuter:1

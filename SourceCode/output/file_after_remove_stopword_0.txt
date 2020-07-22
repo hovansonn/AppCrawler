@@ -1,0 +1,5 @@
+walks:1
+like:2
+duck:3
+quacks:1
+must:1

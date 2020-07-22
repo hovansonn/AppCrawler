@@ -1,0 +1,8 @@
+australian:1
+state:2
+extend:1
+emerg:1
+coronaviru:1
+case:1
+spike:1
+reuter:1

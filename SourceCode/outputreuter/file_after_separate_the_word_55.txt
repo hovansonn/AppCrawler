@@ -1,0 +1,10 @@
+Orange:1
+ordered:1
+to:2
+pay:1
+rival:1
+Digicel:1
+close:1
+280:1
+million:1
+Reuters:1

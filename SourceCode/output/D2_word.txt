@@ -1,0 +1,11 @@
+beij:1
+duck:2
+mostli:2
+prize:1
+thin:1
+crispi:1
+skin:2
+authent:1
+version:1
+dish:1
+serv:1
